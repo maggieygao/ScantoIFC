@@ -28,10 +28,18 @@ pip install jupyter-autotime
 Alternatively, you can recreate the environment with:
 
 open3d>=0.17
+
 ifcopenshell>=0.6
+
 numpy>=1.21
+
 scipy>=1.7
+
 matplotlib>=3.4
+
 scikit-learn>=0.24
+
 jupyter
+
 jupyter-autotime
+
